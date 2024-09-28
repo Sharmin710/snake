@@ -14,4 +14,3 @@ This is a simple, fun, and interactive **Snake Game** built as a backend project
 2. Use the **arrow keys** to move the snake up, down, left, or right.
 3. The goal is to **eat the food** that appears on the screen, which makes the snake grow longer.
 4. Avoid the snake's own body.
-
